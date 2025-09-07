@@ -14,6 +14,7 @@ The dashboard helps analyze **sales trends, customer behavior, product performan
 ---
 
 ## 📂 Project Structure
+
 Sales_Dashboard_Project/
 │
 ├── Data/
@@ -26,9 +27,6 @@ Sales_Dashboard_Project/
 │ └── Dashboard_View.png
 │
 └── README.md
-
-yaml
-Copy code
 
 ---
 
