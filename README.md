@@ -14,7 +14,6 @@ The dashboard helps analyze **sales trends, customer behavior, product performan
 ---
 
 ## 📂 Project Structure
-
 Sales_Dashboard_Project/
 │
 ├── Data/
