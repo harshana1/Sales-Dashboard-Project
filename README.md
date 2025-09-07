@@ -12,6 +12,12 @@ This project demonstrates an **end-to-end sales analysis** using **Excel** for d
 The dashboard helps analyze **sales trends, customer behavior, product performance, and regional sales**.
 
 ---
+## 📁 Dataset
+
+- **Source:** [Kaggle](https://www.kaggle.com/)  
+- **File:** SalesData.xlsx  
+- **Description:** Sample sales data including orders, products, customers, and sales metrics used for analysis and dashboard creation.
+---
 
 ## 📂 Project Structure
 
@@ -66,4 +72,4 @@ Sales_Dashboard_Project/
 
 ## ✍️ Author
 **Harshana Suraweera**  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
+[LinkedIn](www.linkedin.com/in/harshana-suraweera) | [GitHub](https://github.com/harshana1)  
