@@ -16,14 +16,13 @@ The dashboard helps analyze **sales trends, customer behavior, product performan
 ## 📂 Project Structure
 
 Sales_Dashboard_Project/
-├── Data/
-│   └── SalesData.xlsx
-├── PowerBI/
-│   └── Sales_Dashboard.pbix
-├── Screenshots/
-│   └── Dashboard_View.png
-└── README.md
-
+- Data/
+  - SalesData.xlsx
+- PowerBI/
+  - Sales_Dashboard.pbix
+- Screenshots/
+  - Dashboard_View.png
+- README.md
 
 ---
 
