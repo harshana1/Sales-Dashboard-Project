@@ -72,4 +72,4 @@ Sales_Dashboard_Project/
 
 ## ✍️ Author
 **Harshana Suraweera**  
-[LinkedIn](www.linkedin.com/in/harshana-suraweera) | [GitHub](https://github.com/harshana1)  
+[LinkedIn](www.linkedin.com/in/harshana-suraweera) | [GitHub](https://github.com/harshana1)  B
